@@ -1,0 +1,16 @@
+package sandbox
+
+version    = 0.0.1
+brief      = "Initial project template from idringen"
+
+author     = tbangase <ichi.toshi217@gmail.com>
+license    = BSD3
+homepage   = https://github.com/githubuser/sandbox
+sourceloc  = git@github.com:githubuser/sandbox.git
+bugtracker = https://github.com/githubuser/sandbox/issues
+
+sourcedir  = src
+modules    = Test
+tests      = Test.spec
+executable = sandbox
+main       = Main
